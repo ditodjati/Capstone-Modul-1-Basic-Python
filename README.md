@@ -1,4 +1,4 @@
-# Shangri-La Museum Collection Management System
+# Museum Collection Management System
 
 A Python-based command-line interface (CLI) application designed to manage museum collections efficiently. This project represents a comprehensive implementation of **CRUD (Create, Read, Update, Delete)** operations using basic Python data structures and advanced logical validation.
 
