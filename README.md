@@ -87,9 +87,9 @@ python "Capstone Modul 1.py"
 If you prefer a step-by-step interactive environment:
 
 1. Open your Jupyter Notebook environment or VS Code.
-2. Launch the *.ipynb file.
+2. Launch the `*.ipynb` file.
 3. Run the code cells sequentially to initiate the museum database interface.
 
 ## 🛡️ Robust Validation Highlights
-* Input Error Handling: Employs try-except blocks to intercept non-integer inputs on numeric menus and years, preventing code crashes.
+* Input Error Handling: Employs `try-except` blocks to intercept non-integer inputs on numeric menus and years, preventing code crashes.
 * Range Constraints: Validates that historical discovery years must sit within a logical historical framework (e.g., up to the current modern era).
