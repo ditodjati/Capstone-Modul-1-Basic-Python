@@ -64,3 +64,32 @@ Make sure you have Python 3.x installed on your local machine.
 1. Clone this repository:
    ```bash
    git clone [https://github.com/ditodjati/Capstone-Modul-1-Basic-Python.git](https://github.com/ditodjati/Capstone-Modul-1-Basic-Python.git)
+2. Navigate to the project directory:
+   ```bash
+   cd Capstone-Modul-1-Basic-Python
+3. Install the required dependency:
+   ```bash
+   pip install tabulate
+
+## 💻 How to Run
+
+You can run this application through two different formats provided in this repository:
+
+### Running the Script (.py)
+
+Execute the native Python script via your terminal:
+```bash
+python "Capstone Modul 1.py"
+```
+
+### Running the Notebook (.ipynb)
+
+If you prefer a step-by-step interactive environment:
+
+1. Open your Jupyter Notebook environment or VS Code.
+2. Launch the *.ipynb file.
+3. Run the code cells sequentially to initiate the museum database interface.
+
+## 🛡️ Robust Validation Highlights
+* Input Error Handling: Employs try-except blocks to intercept non-integer inputs on numeric menus and years, preventing code crashes.
+* Range Constraints: Validates that historical discovery years must sit within a logical historical framework (e.g., up to the current modern era).
